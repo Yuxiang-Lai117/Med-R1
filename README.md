@@ -4,6 +4,7 @@
 
 [![🤗 Model on Hugging Face](https://img.shields.io/badge/HuggingFace-Med--R1-blue?logo=huggingface)](https://huggingface.co/yuxianglai117/Med-R1)
 [![arXiv](https://img.shields.io/badge/arXiv-2503.13939-b31b1b.svg)](https://arxiv.org/abs/2503.13939)
+
 The code is coming soon!
 ---
 
@@ -43,3 +44,23 @@ We also provide **cross-task checkpoints**, each focused on a key medical reason
 ## Use of Models and Checkpoints
 
 [![🤗 Model on Hugging Face](https://img.shields.io/badge/HuggingFace-Med--R1-blue?logo=huggingface)](https://huggingface.co/yuxianglai117/Med-R1)
+
+## Acknowledgements
+
+We thank the authors of **OmniMedVQA** and **R1-V** for their open-source contributions.  
+🔗 [R1-V GitHub Repository](https://github.com/Deep-Agent/R1-V)
+🔗 [OmniMedVQA GitHub Repository](https://github.com/OpenGVLab/Multi-Modality-Arena)
+
+
+## Citation
+```
+@misc{lai2025medr1reinforcementlearninggeneralizable,
+      title={Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models}, 
+      author={Yuxiang Lai and Jike Zhong and Ming Li and Shitian Zhao and Xiaofeng Yang},
+      year={2025},
+      eprint={2503.13939},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2503.13939}, 
+}
+```
