@@ -3,7 +3,8 @@
 **Med-R1** is a reinforcement learning-enhanced vision-language model (VLM) tailored for generalizable medical reasoning. Built on Qwen2-VL-2B, Med-R1 is trained with Group Relative Policy Optimization (GRPO) to support **8 medical imaging modalities** and **5 key diagnostic tasks**, delivering high performance with parameter efficiency.
 
 [![🤗 Model on Hugging Face](https://img.shields.io/badge/HuggingFace-Med--R1-blue?logo=huggingface)](https://huggingface.co/yuxianglai117/Med-R1)
-
+[![arXiv](https://img.shields.io/badge/arXiv-2503.13939-b31b1b.svg)](https://arxiv.org/abs/2503.13939)
+The code is coming soon!
 ---
 
 ## 🔍 Overview
