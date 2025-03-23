@@ -54,13 +54,10 @@ We thank the authors of **OmniMedVQA** and **R1-V** for their open-source contri
 
 ## Citation
 ```
-@misc{lai2025medr1reinforcementlearninggeneralizable,
-      title={Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models}, 
-      author={Yuxiang Lai and Jike Zhong and Ming Li and Shitian Zhao and Xiaofeng Yang},
-      year={2025},
-      eprint={2503.13939},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2503.13939}, 
+@article{lai2025med,
+  title={Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models},
+  author={Lai, Yuxiang and Zhong, Jike and Li, Ming and Zhao, Shitian and Yang, Xiaofeng},
+  journal={arXiv preprint arXiv:2503.13939},
+  year={2025}
 }
 ```
