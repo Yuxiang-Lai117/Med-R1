@@ -6,6 +6,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2503.13939-b31b1b.svg)](https://arxiv.org/abs/2503.13939)
 
 Checkpoints are now available on Hugging Face. 
+
 Code will be released soon!
 ---
 
